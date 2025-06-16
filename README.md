@@ -1,4 +1,4 @@
-## Olá galera, sou o Matheus 👋
+## Olá galera, sou o Matheus 
 
 
 -  Software Quality Analyst
