@@ -2,4 +2,6 @@
 
 
 -  Software Quality Analyst
--  Node.js + React
+-  JavaScript
+-  Java
+-  MySql
