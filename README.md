@@ -30,7 +30,7 @@ My name is Matheus Macedo, I’m 29 years old and passionate about technology an
   <a href="mailto:macedo.matheus.df@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/matheus-macedo" target="_blank">
+  <a href="https://www.linkedin.com/in/matheusaalexandre" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/matheusaalexandre/)">
   </a>
   <a href="https://discord.gg/matheusmacedo_27904" target="_blank">
