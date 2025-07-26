@@ -2,7 +2,7 @@
 
 **`Software Quality Analyst`**
 
-Meu nome é Matheus Macedo, tenho 29 anos e sou apaixonado por tecnologia e qualidade de software. Sou formado em  Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Grupo Projeção (2020–2022), possuo MBA em Gestão da Qualidade de Software pela Unyleya (2022) e atualmente curso Tecnólogo em Sistemas de Informação. Também sou certificado CTFL (Certified Tester Foundation Level) pela BSTQB (2023).
+Meu nome é Matheus Macedo, tenho 30 anos e sou apaixonado por tecnologia e qualidade de software. Sou formado em  Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Grupo Projeção (2020–2022), possuo MBA em Gestão da Qualidade de Software pela Unyleya (2022) e atualmente curso Tecnólogo em Sistemas de Informação. Também sou certificado CTFL (Certified Tester Foundation Level) pela BSTQB (2023).
 
 Atuo como Analista de Qualidade de Software, com experiência em testes manuais, automação de testes, garantia da qualidade em projetos e aplicação de boas práticas ao longo do ciclo de vida do desenvolvimento de software.
 
