@@ -6,21 +6,6 @@
 
 ---
 
-## 🚀 Sobre mim  
-
-Analista de Qualidade de Software com foco em **automação de testes** e garantia de qualidade em aplicações web.
-
-🎯 Experiência com:
-- Testes funcionais e regressivos  
-- Automação E2E  
-- Testes exploratórios  
-- Validação de APIs  
-- Estratégia e documentação de testes  
-
-Sempre buscando melhoria contínua, qualidade no processo e entregas confiáveis.
-
----
-
 ## 🧪 Stack de Qualidade & Automação  
 
 <div style="display: inline_block"><br>
@@ -57,22 +42,6 @@ Sempre buscando melhoria contínua, qualidade no processo e entregas confiáveis
 
 ---
 
-## 🏆 Projetos em Destaque  
-
-🔎 **Framework de Automação com Cypress**  
-Automação E2E com boas práticas, organização por Page Objects e relatórios automatizados.
-
-🤖 **Automação Web com Selenium + Java**  
-Criação de testes robustos com integração contínua.
-
-📦 **Testes de API**  
-Validação de endpoints, contratos e status codes.
-
-📋 **Estratégia de Testes**  
-Planejamento, documentação e cobertura de cenários críticos.
-
----
-
 ## 📫 Contato  
 
 <div> 
@@ -88,9 +57,3 @@ Planejamento, documentação e cobertura de cenários críticos.
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
-
----
-
-## 💡 Frase que representa meu trabalho  
-
-> "Qualidade não é um ato, é um hábito."
